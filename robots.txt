@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://zemepisec.cz/sitemap/sitemap-index.xml
+Host: https://zemepisec.cz
