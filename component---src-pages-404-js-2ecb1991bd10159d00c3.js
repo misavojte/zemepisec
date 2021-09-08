@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{w2l6:function(e,n,a){"use strict";a.r(n);var t=a("q1tI"),l=a.n(t),r=a("Bl7J"),u=a("vrFN");n.default=function(){return l.a.createElement(r.a,null,l.a.createElement(u.a,{title:"404: Stránka nenalezena"}),l.a.createElement("h1",null,"404: Stránka nenalezena"),l.a.createElement("p",null,"Stránku, kterou se snažíte najít, zřejmě snědla kočka."))}}}]);
-//# sourceMappingURL=component---src-pages-404-js-2ecb1991bd10159d00c3.js.map
